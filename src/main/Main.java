@@ -6,7 +6,6 @@ import game.Commentator;
 import game.Game;
 import game.IGame;
 import game.Observer;
-import player.AutoPlayer;
 import player.KeyBoardPlayer;
 
 public class Main {
